@@ -2,7 +2,7 @@
 📐 Secant Method in C++
 
 📌 Overview
-This project is a simple implementation of the **Secant Method** using C++.  
+This project is a simple implementation of the "Secant Method" using C++.  
 The Secant Method is a numerical technique for finding the roots of nonlinear equations.  
 It is an iterative method that requires two initial approximations and converges to the root through repeated evaluations of the function.
 
@@ -42,17 +42,17 @@ Any C++ IDE (optional): Visual Studio Code, CLion, Code::Blocks, etc.
 
 
 🧠 How It Works
-Starts with two initial guesses `x1` and `x2`.
-Applies the **Secant Method** formula:
+Starts with two initial guesses x1 and x2.
+Applies the "Secant Method" formula:
 x0 = (x1 * f(x2) - x2 * f(x1)) / (f(x2) - f(x1))
-Repeats until the difference between iterations is less than a given tolerance `E`.
+Repeats until the difference between iterations is less than a given tolerance E.
 
 
 
 📁 File Structure
 secant-method-cpp/
-├── main.cpp     # Main C++ program implementing the Secant Method
-├── README.md    # This documentation file
+├── main.cpp     // Main C++ program implementing the Secant Method
+├── README.md    //This documentation file
 
 
 
@@ -66,9 +66,9 @@ No. of iterations = 6
 
 🔧 Customization
 You can change the following in the code:
-✅ The function `f(x)` in the `f()` method
-✅ Initial guesses (`x1`, `x2`)
-✅ Error tolerance `E`
+✅ The function 'f(x)' in the f(x) method
+✅ Initial guesses (x1, x2)
+✅ Error tolerance E
 
 
 
