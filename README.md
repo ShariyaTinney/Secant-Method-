@@ -29,16 +29,13 @@ Any C++ IDE (optional): Visual Studio Code, CLion, Code::Blocks, etc.
 🚀 How to Run
 
 1.Clone the repository or download the source code:
-   bash
    git clone https://github.com/ShariyaTinney/secant-method-cpp.git
    cd secant-method-cpp
 
 2.Compile the C++ code:
-   bash
    g++ main.cpp -o secant
 
 3.Run the program:
-   bash
    ./secant
 
 
@@ -86,10 +83,13 @@ For any questions or feedback, contact:
 ShariyaTinney — \[[ShariyaTinney.gmail@example.com](mailto:ShariyaTinney.gmail@example.com)] 
 
 
+📚 Resources
+[Bisection Method – Wikipedia](https://en.wikipedia.org/wiki/Secant method)
+[Numerical Methods in C++](https://cplusplus.com/)
 
-✅ What You Should Update
-Replace:
-`ShariyaTinney` in the `git clone` link
-`ShariyaTinney` and `ShariyaTinney.gmail@example.com` with your actual ShariyaTinney/email
-Once done, add this `README.md` to your project directory and push it to GitHub.
+
+
+🧩 Language
+![C++](https://img.shields.io/badge/C%2B%2B-100%25-blue)
+
 
